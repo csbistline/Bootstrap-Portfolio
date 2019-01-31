@@ -1,0 +1,12 @@
+body {
+    /* color: #777777;
+    font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+    line-height: 2rem; */
+    background-image: url(../images/gravel.png);
+    background-repeat: repeat;
+    box-sizing: border-box;
+}
+
+nav {
+    border-bottom: 2px solid #cccccc;
+}
